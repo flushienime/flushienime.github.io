@@ -54494,7 +54494,7 @@ A.kG.prototype={}
 A.Ba.prototype={}
 A.qe.prototype={
 an(){var s=t.N,r=t.A7
-return new A.EB(A.a([A.ai(["title","Goi dau 1","path","audio/Goi dau.m4a"],s,s),A.ai(["title","Goi dau 2","path","audio/Goi dau (2).m4a"],s,s),A.ai(["title","Goi dau 3","path","audio/Goi dau (3).m4a"],s,s),A.ai(["title","Goi dau 4","path","audio/Goi dau (4).m4a"],s,s),A.ai(["title","Goi dau 5","path","audio/Goi dau (5).m4a"],s,s),A.ai(["title","Goi dau 6","path","audio/Goi dau (6).m4a"],s,s)],r),A.a([A.ai(["title","Ko goi dau 1","path","audio/Ko goi dau.m4a"],s,s),A.ai(["title","Ko goi dau 2","path","audio/Ko goi dau (2).m4a"],s,s),A.ai(["title","Ko goi dau 3","path","audio/Ko goi dau (3).m4a"],s,s),A.ai(["title","Ko goi dau 4","path","audio/Ko goi dau (4).m4a"],s,s),A.ai(["title","Ko goi dau 5","path","audio/Ko goi dau (5).m4a"],s,s)],r),B.q)}}
+return new A.EB(A.a([A.ai(["title","Goi dau 1","path","audio/Goi_dau.mp3"],s,s),A.ai(["title","Goi dau 2","path","audio/Goi_dau_2.mp3"],s,s),A.ai(["title","Goi dau 3","path","audio/Goi_dau_3.mp3"],s,s),A.ai(["title","Goi dau 4","path","audio/Goi_dau_4.mp3"],s,s),A.ai(["title","Goi dau 5","path","audio/Goi_dau_5.mp3"],s,s),A.ai(["title","Goi dau 6","path","audio/Goi_dau_6.mp3"],s,s)],r),A.a([A.ai(["title","Ko goi dau 1","path","audio/Ko_goi_dau.mp3"],s,s),A.ai(["title","Ko goi dau 2","path","audio/Ko_goi_dau_2.mp3"],s,s),A.ai(["title","Ko goi dau 3","path","audio/Ko_goi_dau_3.mp3"],s,s),A.ai(["title","Ko goi dau 4","path","audio/Ko_goi_dau_4.mp3"],s,s),A.ai(["title","Ko goi dau 5","path","audio/Ko_goi_dau_5.mp3"],s,s)],r),B.q)}}
 A.EB.prototype={
 gD4(){var s,r=this.d
 if(r===$){s=A.aco()
